@@ -4,7 +4,7 @@
 
 <br/>
 
-### `> Desarrollador Full Stack · Quito, Ecuador 🇪🇨`
+### `> Estudiante de ingeniería de software · Quito, Ecuador 🇪🇨`
 
 <img src="https://komarev.com/ghpvc/?username=Dennis-Chimborazo&label=Visitas&color=00ff41&style=flat-square" alt="Profile views" />
 
@@ -25,7 +25,7 @@
 $ cat perfil.json
 {
   "nombre": "Dennis Chimborazo",
-  "rol": "Full Stack Developer",
+  "rol": "Estudiante de ingeniería de software",
   "ubicacion": "Quito, Ecuador",
   "enfoque": ["Backend", "Automatización", "Agentes IA", "Arquitecturas distribuidas"],
   "filosofia": "Código limpio, soluciones reales, aprendizaje continuo."
@@ -183,9 +183,7 @@ Portal público del grupo de investigación **REASONS** con panel administrativo
 
 | Canal | Enlace |
 | :--- | :--- |
-| 📧 Email | [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com) |
 | 💼 LinkedIn | [linkedin.com/in/dennis-chimborazo](https://linkedin.com/in/dennis-chimborazo) |
-| 🐙 GitHub | [@Dennis-Chimborazo](https://github.com/Dennis-Chimborazo) |
 | 🌐 Portafolio | [tu-portafolio.com](https://tu-portafolio.com) |
 
 </div>
