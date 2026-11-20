@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+Inicializando+perfil...;%3E+Dennis+Chimborazo;%3E+Full+Stack+Developer;%3E+Status%3A+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+Inicializando+perfil...;%3E+Dennis+Chimborazo;%3E+Junior+Developer;%3E+Status%3A+ONLINE" alt="Typing SVG" />
 
 <br/>
 
-### `> Estudiante de ingeniería de software · Quito, Ecuador 🇪🇨`
+### `> Estudiante de ingeniería de software`
 
 <img src="https://komarev.com/ghpvc/?username=Dennis-Chimborazo&label=Visitas&color=00ff41&style=flat-square" alt="Profile views" />
 
@@ -26,7 +26,6 @@ $ cat perfil.json
 {
   "nombre": "Dennis Chimborazo",
   "rol": "Estudiante de ingeniería de software",
-  "ubicacion": "Quito, Ecuador",
   "enfoque": ["Backend", "Automatización", "Agentes IA", "Arquitecturas distribuidas"],
   "filosofia": "Código limpio, soluciones reales, aprendizaje continuo."
 }
