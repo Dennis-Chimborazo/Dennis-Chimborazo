@@ -11,14 +11,11 @@
 
 <br/><br/>
 
-<a href="https://tu-portafolio.com">
+<a href="https://dennis.gestionplus.cloud/">
   <img src="https://img.shields.io/badge/🌐_Portafolio-00ff41?style=for-the-badge&logoColor=black" />
 </a>
-<a href="https://linkedin.com/in/dennis-chimborazo">
+<a href="[https://dennis.gestionplus.cloud/](https://www.linkedin.com/in/dennis-chimborazo-3b9934450/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Dennis-Chimborazo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
