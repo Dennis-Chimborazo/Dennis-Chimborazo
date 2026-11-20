@@ -200,10 +200,10 @@ Portal del grupo **REASONS** con panel admin JWT.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/dennis-chimborazo">
+<a href="https://www.linkedin.com/in/dennis-chimborazo-3b9934450/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://tu-portafolio.com">
+<a href="https://dennis.gestionplus.cloud/">
   <img src="https://img.shields.io/badge/Portafolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
