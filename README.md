@@ -32,7 +32,7 @@ $ cat perfil.json
 {
   "nombre": "Dennis Chimborazo",
   "rol": "Estudiante de Ingeniería de Software · Junior Developer",
-  "ubicacion": "Quito, Ecuador 🇪🇨",
+  "ubicacion": "Ambato, Ecuador 🇪🇨",
   "enfoque": ["Backend", "Automatización", "Agentes IA", "Arquitecturas distribuidas"],
   "filosofia": "Código limpio, soluciones reales, aprendizaje continuo."
 }
