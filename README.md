@@ -1,23 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+Inicializando+perfil...;%3E+Dennis+Chimborazo;%3E+Junior+Developer;%3E+Status%3A+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=%3E+hello_world();%3E+Dennis+Chimborazo;%3E+Junior+Developer;%3E+Estudiante+de+Ing.+de+Software;%3E+Status%3A+ONLINE" alt="Typing SVG" />
 
 <br/>
 
-### `> Estudiante de ingeniería de software`
+### `> Estudiante de Ingeniería de Software · Junior Developer`
 
 <img src="https://komarev.com/ghpvc/?username=Dennis-Chimborazo&label=Visitas&color=00ff41&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Dennis-Chimborazo?label=Seguidores&style=flat-square&color=00ff41&labelColor=0a0a0a" alt="Followers" />
 
 <br/><br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://tu-portafolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennis-chimborazo)
-[![Email](https://img.shields.io/badge/Contacto-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+<a href="https://tu-portafolio.com">
+  <img src="https://img.shields.io/badge/🌐_Portafolio-00ff41?style=for-the-badge&logoColor=black" />
+</a>
+<a href="https://linkedin.com/in/dennis-chimborazo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Dennis-Chimborazo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## `$ whoami`
 
@@ -25,33 +31,54 @@
 $ cat perfil.json
 {
   "nombre": "Dennis Chimborazo",
-  "rol": "Estudiante de ingeniería de software",
+  "rol": "Estudiante de Ingeniería de Software · Junior Developer",
+  "ubicacion": "Quito, Ecuador 🇪🇨",
   "enfoque": ["Backend", "Automatización", "Agentes IA", "Arquitecturas distribuidas"],
   "filosofia": "Código limpio, soluciones reales, aprendizaje continuo."
 }
 ```
 
-> Construyo aplicaciones web completas —desde el modelo de datos hasta la interfaz— con especial interés en **automatización con IA**, **sistemas distribuidos** y **paneles administrativos**. Me gusta que cada proyecto resuelva un problema concreto y medible.
+> Construyo aplicaciones web completas —del modelo de datos a la interfaz— con interés en **automatización con IA**, **sistemas distribuidos** y **paneles administrativos**. Cada proyecto busca resolver un problema concreto y medible.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## `$ cat stack.txt`
 
 <div align="center">
 
-### 🧠 Lenguajes
+**🧠 Lenguajes**
 
-| Lenguaje | Nivel | Barra |
-| :--- | :---: | :--- |
-| **Python** | `██████████████░░░░░░` | Medio |
-| **JavaScript** | `██████████████░░░░░░` | Medio |
-| **Java** | `██████████████░░░░░░` | Medio |
-| **Kotlin** | `██████████████░░░░░░` | Medio |
-| **C++** | `███████░░░░░░░░░░░░░` | Bajo |
-| **Go** | `███████░░░░░░░░░░░░░` | Bajo |
-| **Rust** | `███████░░░░░░░░░░░░░` | Bajo |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 
-### 🌳 Árbol de tecnologías
+**⚙️ Frameworks & Librerías**
+
+![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**🗄️ Datos & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>🌳 Ver árbol de tecnologías (click)</b></summary>
 
 ```text
 Python ──┬── Flask        (lib)
@@ -63,14 +90,9 @@ JavaScript ──┬── React    (lib)
              └── NestJS   (fw)
 ```
 
-</div>
+</details>
 
-**Frontend:** React · Angular · Vue 3 · Next.js · Tailwind · HTMX · Alpine.js  
-**Backend:** Node.js · Express · NestJS · Django · Flask · Sequelize · Zod · Pydantic AI  
-**Bases de datos:** PostgreSQL · SQLite  
-**DevOps / Otros:** Docker · Git · JWT · Mistral (LLMs)
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## `$ ls proyectos/`
 
@@ -78,22 +100,22 @@ JavaScript ──┬── React    (lib)
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Agente de seguimiento de proyectos
-Audita el avance en **Trello**, lo contrasta con la actividad de **Git** y envía un informe por **WhatsApp**.
+### 🤖 Agente de seguimiento
+Audita avance en **Trello**, lo contrasta con **Git** y envía informe por **WhatsApp**.
 
-`Python` · `Pydantic AI` · `Mistral` · `SQLite`
+`Python` `Pydantic AI` `Mistral` `SQLite`
 
-[→ Ver repo](https://github.com/Dennis-Chimborazo/Agente.git)
+[![Repo](https://img.shields.io/badge/Ver_repo-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo/Agente.git)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Ahorro y metas financieras
-Planifica el ahorro en torno a metas concretas con seguimiento de aportes y avance.
+### 💰 Ahorro y metas
+Planifica ahorro por metas con seguimiento de aportes y avance.
 
-`React 19` · `NestJS 11` · `TypeScript`
+`React 19` `NestJS 11` `TypeScript`
 
-[→ Ver repo](https://github.com/Dennis-Chimborazo/Ahorro-y-metas-financieras.git)
+[![Repo](https://img.shields.io/badge/Ver_repo-087EA4?style=flat-square&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo/Ahorro-y-metas-financieras.git)
 
 </td>
 </tr>
@@ -101,21 +123,21 @@ Planifica el ahorro en torno a metas concretas con seguimiento de aportes y avan
 <td width="50%" valign="top">
 
 ### 📱 GalaxyCell
-Inventario de pantallas para celulares, clientes y ventas en un solo panel.
+Inventario de pantallas, clientes y ventas en un solo panel.
 
-`Python` · `Django 6` · `Tailwind` · `HTMX` · `Alpine.js` · `PostgreSQL`
+`Python` `Django 6` `HTMX` `Alpine.js` `PostgreSQL`
 
-[→ Ver repo](https://github.com/Dennis-Chimborazo/GalaxyCell.git)
+[![Repo](https://img.shields.io/badge/Ver_repo-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo/GalaxyCell.git)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ Gestión de Seguros
-De la ficha del cliente al formulario de solicitud, con vistas por rol (admin, agente, cliente).
+Ficha de cliente + formulario de solicitud con vistas por rol.
 
-`React` · `Node.js` · `Express` · `PostgreSQL`
+`React` `Node.js` `Express` `PostgreSQL`
 
-[→ Ver repo](https://github.com/Dennis-Chimborazo/Gestion-Seguros.git)
+[![Repo](https://img.shields.io/badge/Ver_repo-F59E0B?style=flat-square&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo/Gestion-Seguros.git)
 
 </td>
 </tr>
@@ -123,29 +145,29 @@ De la ficha del cliente al formulario de solicitud, con vistas por rol (admin, a
 <td width="50%" valign="top">
 
 ### 🏥 Hospital Distribuido
-Arquitectura para tres sedes (Quito, Guayaquil, Cuenca), cada una con su propia app web y gateway común.
+Tres sedes (Quito, Guayaquil, Cuenca) con gateway común.
 
-`Vue 3` · `Next.js` · `React` · `Node.js`
+`Vue 3` `Next.js` `React` `Node.js`
 
-[→ Ver repo](https://github.com/Dennis-Chimborazo/Hospital-Distribuido.git)
+[![Repo](https://img.shields.io/badge/Ver_repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo/Hospital-Distribuido.git)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔬 ProjectReasons
-Portal público del grupo de investigación **REASONS** con panel administrativo JWT.
+Portal del grupo **REASONS** con panel admin JWT.
 
-`Angular 21` · `Express 5` · `PostgreSQL 16` · `Docker`
+`Angular 21` `Express 5` `PostgreSQL 16` `Docker`
 
-[→ Ver repo](https://github.com/Dennis-Chimborazo/ProjectReasons)
+[![Repo](https://img.shields.io/badge/Ver_repo-DD0031?style=flat-square&logo=github&logoColor=white)](https://github.com/Dennis-Chimborazo/ProjectReasons)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## `$ git log --graph --oneline --highlights`
+## `$ git log --oneline --highlights`
 
 ```text
 * feat(ai)       → Agente IA que audita Trello + Git + WhatsApp
@@ -155,18 +177,18 @@ Portal público del grupo de investigación **REASONS** con panel administrativo
 * chore(devops)  → Docker, PostgreSQL, despliegues
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## `$ stats --github`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dennis-Chimborazo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=cccccc" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Chimborazo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=cccccc" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dennis-Chimborazo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=cccccc&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-Chimborazo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=cccccc&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dennis-Chimborazo&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dennis-Chimborazo&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" />
 
 <br/>
 
@@ -174,27 +196,25 @@ Portal público del grupo de investigación **REASONS** con panel administrativo
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## `$ contact --now`
 
 <div align="center">
 
-| Canal | Enlace |
-| :--- | :--- |
-| 💼 LinkedIn | [linkedin.com/in/dennis-chimborazo](https://linkedin.com/in/dennis-chimborazo) |
-| 🌐 Portafolio | [tu-portafolio.com](https://tu-portafolio.com) |
+<a href="https://linkedin.com/in/dennis-chimborazo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://tu-portafolio.com">
+  <img src="https://img.shields.io/badge/Portafolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ```text
 > Gracias por visitar. Presiona [F5] para reiniciar.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&fontColor=0a0a0a" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&fontColor=0a0a0a" />
